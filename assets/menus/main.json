@@ -1,0 +1,43 @@
+[
+    {
+        "type": "text",
+        "x": 0.5,
+        "y": 0.1,
+        "txt": "r:Monopoly",
+        "font_family": "file:Roboto-Bold.ttf",
+        "size": 100,
+        "color": [103, 198, 23]
+    },
+    {
+        "type": "button",
+        "x": 0.5,
+        "y": 0.4,
+        "width": 0.25,
+        "txt": "main.play",
+        "name": "main.play"
+    },
+    {
+        "type": "button",
+        "x": 0.5,
+        "y": 0.66,
+        "width": 0.25,
+        "txt": "main.settings",
+        "name": "main.settings"
+    },
+    {
+        "type": "button",
+        "x": 0.5,
+        "y": 0.79,
+        "width": 0.25,
+        "txt": "main.credits",
+        "name": "main.credits"
+    },
+    {
+        "type": "button",
+        "x": 0.5,
+        "y": 0.92,
+        "width": 0.25,
+        "txt": "main.quit",
+        "name": "main.quit"
+    }
+]

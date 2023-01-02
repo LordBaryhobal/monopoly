@@ -1,0 +1,25 @@
+[
+    {
+        "type": "text",
+        "x": 0.5,
+        "y": 0.2,
+        "txt": "pause.title",
+        "size": 40
+    },
+    {
+        "type": "button",
+        "x": 0.5,
+        "y": 0.4,
+        "width": 0.25,
+        "txt": "pause.return",
+        "name": "pause.return"
+    },
+    {
+        "type": "button",
+        "x": 0.5,
+        "y": 0.8,
+        "width": 0.25,
+        "txt": "pause.main",
+        "name": "pause.main"
+    }
+]
